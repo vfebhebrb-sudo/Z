@@ -777,7 +777,7 @@ setTimeout(()=>{
 
 
 window.location.href =
-"../index.html";
+"../index1.html";
 
 
 },1500);
