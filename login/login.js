@@ -286,7 +286,7 @@ await fetch(
 
 
                 window.location.href =
-                "./index.html";
+                "../index1.html";
 
 
             },1000);
