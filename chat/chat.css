@@ -4477,7 +4477,12 @@ height:28px;
 
 
 
+@media(max-width:768px){
 
+   .message-box{
+      margin_button: 40px;
+   }
+}
 
 
 
